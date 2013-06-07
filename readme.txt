@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WM Child Post wordpress plugins use for showing child post in Post, Page or Widget area. Please Enable FAQ checkbox for activating FAQ feature.
+WM Child Post wordpress plugins use for showing child post in Post, Page or Widget area. Please Enable FAQ checkbox for activate FAQ feature.
 
 == Description ==
 

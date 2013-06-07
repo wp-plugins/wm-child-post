@@ -1,0 +1,58 @@
+/*CSS Style for WM Child post wordpress plugins*/
+#wm-container {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.3);
+	z-index: 9999
+}
+
+#wm-child-post {
+	width: 500px;
+	position: relative;
+	left: 50%;
+	margin: 120px auto 0 -250px;
+	font-size: 14px;
+	background-color: #F9F9F9
+}
+
+#wm-child-post .button.button-hero {height: 30px}
+
+#wm-child-post h4.wm-title {
+	color: #464646;
+	margin: 0;
+	padding:10px;
+	border: 1px solid #DFDFDF;
+	border-bottom: none;
+	font-weight: normal;
+	font-size: 16px;
+	text-align: center;
+	background-color: #e4e4e4;
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+
+#wm-child-post .wm-content table.wm-table {width: 100%}
+
+#wm-child-post tr.paddtr th, #wm-child-post tr.paddtr td {padding-top: 15px!important}
+
+#wm-child-post tr.paddtr.bottom td {padding-bottom: 25px!important}
+
+#wm-child-post .wm-content table.wm-table th {
+	vertical-align: top;
+	padding-top: 5px;
+	text-align: left;
+}
+
+#wm-child-post .wm-content table.wm-table td {
+	vertical-align: top;
+	padding-bottom: 10px;
+}
+
+#wm-child-post .wm-content table.wm-table select {width: 150px}
+
+#wm-btn-groups {margin-top: 10px}
+
+#wm-btn-groups a.button {margin-bottom:10px; margin-right: 5px}
+

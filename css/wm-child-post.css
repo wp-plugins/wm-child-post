@@ -1,0 +1,5 @@
+.wmchild-post article.wmcp .wm-details.excerpt img {float: left; margin-right: 10px; margin-bottom: 5px}
+.wmchild-post article.wmcp {margin-bottom: 20px}
+#wmchild-faq article.wmcp h3.post-title {padding-right:10px; background: url(collapse.png) no-repeat right center; cursor: pointer}
+#wmchild-faq article.wmcp h3.post-title.expand {background: url(expand.png) no-repeat right center}
+#wmchild-faq article.wmcp .wm-details {display: none}

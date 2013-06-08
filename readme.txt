@@ -8,14 +8,14 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WM Child Post wordpress plugins use for showing child post in Post, Page or Widget area. Please Enable FAQ checkbox for activate FAQ feature.
+WM Child Post wordpress plugins use for showing child post inside Post, Page or Widget area.
 
 == Description ==
 
-WM Child Post wordpress plugins use for showing child post in Post, Page or Widget area. If you want to active FAQ feature please check FAQ checkbox.
+WM Child Post wordpress plugins use for showing child post inside Post, Page or Widget area. If you want to active FAQ feature please check FAQ checkbox.
 
-* Show Child Post in Page or Post page.
-* Display Posts or FAQ in the widget area from specific group.
+* Show Child Post inside Page or Post page.
+* Display Posts or FAQ inside the widget area from specific group.
 * FAQ feature enable with "Slide Down" animation.
 * Fully Featured image supported
 

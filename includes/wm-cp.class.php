@@ -1,6 +1,6 @@
 <?php
 /**
-* Widget CSS Classes Plugin Loader
+* Widget WM Child Post Classes Plugin Loader
 *
 * Loader
 * @author Repon Hossain
